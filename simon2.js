@@ -14,7 +14,7 @@ var turnCount = 0;
 
 var sound1 = new Audio("http://sep800.mine.nu/files/sounds/buzzer.wav"); //game over
 var sound2 = new Audio("http://www.telephonetribute.com/audio/zero.wav"); //button press
-var sound3 = new Audio("https://s3.amazonaws.com/ask-soundlibrary/musical/amzn_sfx_electronic_beep_01.mp3"); //color sequence
+var sound3 = new Audio("http://www.pacdv.com/sounds/interface_sound_effects/beep-6.wav"); //color sequence
 var sound4 = new Audio("http://www.wavsource.com/snds_2018-06-03_5106726768923853/sfx/fanfare3.wav"); //win game
 
 //turn game on/off
